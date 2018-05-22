@@ -5,4 +5,6 @@ paginate: 2
 paginate_path: "/blog/page:num/"
 
 plugins:
- -jekyll-paginate
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-paginate
