@@ -3,3 +3,6 @@ name: SM Boyer
 title: SM Boyer
 paginate: 2
 paginate_path: "/blog/page:num/"
+
+plugins:
+ -jekyll-paginate
