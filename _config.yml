@@ -4,3 +4,5 @@ title: SM Boyer
 
 paginate:       2
 paginate_path:  '/blog/page-:num/'
+
+theme: jekyll-theme-minimal
